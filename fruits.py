@@ -1,5 +1,6 @@
 item = "Banana"
 Item= "Apple"
+item= "Mango"
 item_name= "Orange"
 
 print(item ,Item)
